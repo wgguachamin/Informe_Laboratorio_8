@@ -62,7 +62,7 @@ DCALAB
 
 ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
 
-•	Multisim: 5 divisiones por cuadro y para completar el ciclo son 80 divisiones.
+•	Multisim: 8
 
 •	DCALAB: 4 
 
