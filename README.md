@@ -52,7 +52,7 @@ DCALAB
 
 •	Multisim: 1, 3 divisiones por cuadro
 
-•	DCALAB: 2.3 divisiones por cuadro 
+•	DCALAB: 3 divisiones por cuadro 
 
 ¿En qué valor está posicionada la perilla VOLTS/DIV?
 
@@ -64,7 +64,7 @@ DCALAB
 
 •	Multisim: 8
 
-•	DCALAB: 4 
+•	DCALAB: 8 
 
 ¿En qué valor está posicionada la perilla TIME/DIV? 
 
