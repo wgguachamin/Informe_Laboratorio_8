@@ -4,7 +4,13 @@ PRÁCTICA No. 8 CARACTERÍSTICAS DE LA ONDA SENOIDAL
 
 1.1. OBJETIVO GENERAL
 
+Determinar experimentalmente las características de la onda senoidal armando un circuito en las plataformas Dcaclab y Multisim, de modo que se empleen los conocimientos adquiridos en clase.
+
 1.2. OBJETIVOS ESPECÍFICOS
+
+• Examinar el comportamiento de la onda senoidal al usar corriente alterna, verificando datos importantes a la hora de analizar un circuito ca, tales como Vp, Vpp, ciclo, periodo a fin de comprender todo lo relacionado con las características de una onda sinusoidal.
+
+•	Aprender a realizar lecturas correctas de valores mediante el osciloscopio e identificar en qué posiciones se colocan las perillas de V/div y s/div para obtener una mejor visualización de la onda senoidal. 
 
 2. MARCO TEÓRICO
 
@@ -125,6 +131,10 @@ Al momento de realizar una medición con un osciloscopio la amplitud medida es e
 https://youtu.be/hpaBLmxWELE
 
 6. CONCLUSIONES
+
+•	Se logró determinar los datos importantes que muestran las ondas sinusoidales, mismos datos que nos permiten identificar cuales son los valores de Voltaje pico o voltaje pico pico, además mediante un multímetro se logró analizar el valor de Voltaje rms.
+
+• Se logró identificar correctamente cómo usar el osciloscopio identificando como mover las perillas a fin de poder ver la onda senoidal de una mejor manera en la que se puedan tomar más fácilmente sus datos. 
 
 7. BIBLIOGRAFÍA
 
